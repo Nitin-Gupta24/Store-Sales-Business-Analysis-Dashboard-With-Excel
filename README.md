@@ -1,1 +1,2 @@
 # Store-Sales-Business-Analysis-Dashboard-With-Excel
+This project involves analyzing store sales data and creating dashboards using Excel. The dataset originally contained **240,001 rows**, which was cleaned and transformed **using Power Query, reducing the data to 20,001 rows**. The project follows a **star schema design**, leveraging **Pivot Tables and DAX** calculations to generate interactive insights into the store's performance.
