@@ -6,14 +6,16 @@ This project focuses on Store Sales based on a dataset with **240,001 rows**, wh
 * A Store dataset typically includes information about the products, customers, and sales associated with store. 
 * The dataset contained **240,001 rows** .
 
+
 ## Tools Used :
-* **Microsoft Excel** :-
+* **Visualization With Microsoft Excel** :-
 
     * **Power Query**  : Used for data cleaning and transformation.
     * **Pivot Tables** : Employed to summarize and analyze the structured data.
     * **DAX (Data Analysis Expressions)** : Leveraged for complex calculations and to create calculated fields in the dashboard.
     
     * **Macros** : Used to automate data filtering and enhance dashboard interactivity.
+
 
 **NOTE :-**
 
